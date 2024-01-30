@@ -1,5 +1,7 @@
 # Fabric Video Editor
 
+### Live Link : https://fabric-video-editor.vercel.app/
+
 Video Editor is a video editor that runs in the browser. It is built with fabric.js, Next.js (a React framework), Tailwindcss, Mobx, and typescript.
 
 
